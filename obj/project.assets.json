@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\beeve\\.nuget\\packages\\": {}
+    "C:\\Users\\Beevers\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\beeve\\source\\repos\\lab6ThomasBeevers\\lab6ThomasBeevers.csproj",
+      "projectUniqueName": "C:\\Users\\Beevers\\Source\\Repos\\lab6ThomasBeevers\\lab6ThomasBeevers.csproj",
       "projectName": "lab6ThomasBeevers",
-      "projectPath": "C:\\Users\\beeve\\source\\repos\\lab6ThomasBeevers\\lab6ThomasBeevers.csproj",
-      "packagesPath": "C:\\Users\\beeve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\beeve\\source\\repos\\lab6ThomasBeevers\\obj\\",
+      "projectPath": "C:\\Users\\Beevers\\Source\\Repos\\lab6ThomasBeevers\\lab6ThomasBeevers.csproj",
+      "packagesPath": "C:\\Users\\Beevers\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Beevers\\Source\\Repos\\lab6ThomasBeevers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\beeve\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Beevers\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
